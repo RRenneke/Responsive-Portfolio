@@ -1,10 +1,21 @@
-Second SMU 
-Used Bootstrap CSS Framework to create a portfolio. 
+In this project, three HTML pages were created to make a responsive portfolio. 
 
-Protfolio should have three index.html, portfolio.html and contact.html files. 
+1. An index page about myself
+
+  <img src="Images/resonsivePortfolioAboutMe.png" alt="About Me Page Screenshot" height="100">
+
+2. A portfolio page about the projects I have done. Since this is only my second project, there are placeholders with images and a description. 
+
+  <img src="Images/resonsivePortfolioPortfolio.png" alt="Portfolio Page Screenshot" height="100">
+
+3. A contact page with a way to contact me. 
+
+  <img src="Images/resonsivePortfolioContactMe.png" alt="Contact Me Page Screenshot" height="100">
+
+Bootstrap was used to create a navigation bar, incorporate a responsive layout, and for responsive images. The sites minimize to the use of media queries and utilizes containers and rows. 
 
 
-Using Bootstrap, the site has a navbar, a responsive layout, responsive images, and minimize the use of media queries.
+Links: 
 
 
 https://github.com/RRenneke/Responsive-Portfolio
